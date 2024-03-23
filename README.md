@@ -1,2 +1,2 @@
-Each type, keyword and examples are all included in each  lesson
+Keywords and examples are all included in each  lesson
 
